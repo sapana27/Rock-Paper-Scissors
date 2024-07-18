@@ -22,6 +22,4 @@ A simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. P
 4. The result (win, lose, or draw) will be displayed along with the updated scores.
 
 ## Screenshot
-![Rock Paper Scissors Game Screenshot](images\screenshot.png)
-
-
+![Rock Paper Scissors Game Screenshot](images/screenshot.png)
